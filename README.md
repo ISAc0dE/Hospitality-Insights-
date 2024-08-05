@@ -1,2 +1,0 @@
-Developed an end-to-end dashboard for a five-star hotel chain, Atliq Grand, experiencing a loss in market share and needing data-driven insights.I conducted data analysis using Power BI to monitor revenue by 
-category, trends across key metrics, property performance, realization percentage, and various other KPIs. The dashboard provided comprehensive insights, enabling the hotel to make informed decisions and strategize effectively
